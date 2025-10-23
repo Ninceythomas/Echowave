@@ -1,0 +1,410 @@
+{
+    "metadata": {
+        "transaction_key": "deprecated",
+        "request_id": "552b834f-2ce2-4046-b288-0982c5de65a7",
+        "sha256": "2397621ba50138cf40970d6af02cdfa1d83758a3cb3e3286368e1b3cd8e386cb",
+        "created": "2025-04-13T14:16:43.365Z",
+        "duration": 247.84981,
+        "channels": 1,
+        "models": [
+            "1abfe86b-e047-4eed-858a-35e5625b41ee"
+        ],
+        "model_info": {
+            "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+                "name": "2-general-nova",
+                "version": "2024-01-06.5664",
+                "arch": "nova-2"
+            }
+        }
+    },
+    "results": {
+        "channels": [
+            {
+                "alternatives": [
+                    {
+                        "transcript": "My mother said I'm too romantic. She said you're dancing in the movie. I almost started to believe her. Then I saw you and I knew. Maybe it's because I got a little bit older. Maybe it's all that I've been through. It's fire on fire.",
+                        "confidence": 0.99047875,
+                        "words": [
+                            {
+                                "word": "my",
+                                "start": 0.88,
+                                "end": 1.1999999,
+                                "confidence": 0.7812617,
+                                "punctuated_word": "My"
+                            },
+                            {
+                                "word": "mother",
+                                "start": 1.1999999,
+                                "end": 1.5999999,
+                                "confidence": 0.99440384,
+                                "punctuated_word": "mother"
+                            },
+                            {
+                                "word": "said",
+                                "start": 1.5999999,
+                                "end": 1.92,
+                                "confidence": 0.996994,
+                                "punctuated_word": "said"
+                            },
+                            {
+                                "word": "i'm",
+                                "start": 1.92,
+                                "end": 2.24,
+                                "confidence": 0.97499275,
+                                "punctuated_word": "I'm"
+                            },
+                            {
+                                "word": "too",
+                                "start": 2.24,
+                                "end": 2.48,
+                                "confidence": 0.92289174,
+                                "punctuated_word": "too"
+                            },
+                            {
+                                "word": "romantic",
+                                "start": 2.48,
+                                "end": 2.98,
+                                "confidence": 0.9662391,
+                                "punctuated_word": "romantic."
+                            },
+                            {
+                                "word": "she",
+                                "start": 4.96,
+                                "end": 5.2799997,
+                                "confidence": 0.99581003,
+                                "punctuated_word": "She"
+                            },
+                            {
+                                "word": "said",
+                                "start": 5.2799997,
+                                "end": 5.52,
+                                "confidence": 0.99529994,
+                                "punctuated_word": "said"
+                            },
+                            {
+                                "word": "you're",
+                                "start": 5.52,
+                                "end": 5.92,
+                                "confidence": 0.9734936,
+                                "punctuated_word": "you're"
+                            },
+                            {
+                                "word": "dancing",
+                                "start": 5.92,
+                                "end": 6.42,
+                                "confidence": 0.99949384,
+                                "punctuated_word": "dancing"
+                            },
+                            {
+                                "word": "in",
+                                "start": 6.48,
+                                "end": 6.64,
+                                "confidence": 0.9979736,
+                                "punctuated_word": "in"
+                            },
+                            {
+                                "word": "the",
+                                "start": 6.64,
+                                "end": 6.96,
+                                "confidence": 0.9573083,
+                                "punctuated_word": "the"
+                            },
+                            {
+                                "word": "movie",
+                                "start": 6.96,
+                                "end": 7.46,
+                                "confidence": 0.7961115,
+                                "punctuated_word": "movie."
+                            },
+                            {
+                                "word": "i",
+                                "start": 9.2,
+                                "end": 9.5199995,
+                                "confidence": 0.99047875,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "almost",
+                                "start": 9.5199995,
+                                "end": 10.0199995,
+                                "confidence": 0.99681807,
+                                "punctuated_word": "almost"
+                            },
+                            {
+                                "word": "started",
+                                "start": 10.08,
+                                "end": 10.4,
+                                "confidence": 0.9960406,
+                                "punctuated_word": "started"
+                            },
+                            {
+                                "word": "to",
+                                "start": 10.4,
+                                "end": 10.88,
+                                "confidence": 0.9992816,
+                                "punctuated_word": "to"
+                            },
+                            {
+                                "word": "believe",
+                                "start": 10.88,
+                                "end": 11.38,
+                                "confidence": 0.9980781,
+                                "punctuated_word": "believe"
+                            },
+                            {
+                                "word": "her",
+                                "start": 11.679999,
+                                "end": 12.179999,
+                                "confidence": 0.89626527,
+                                "punctuated_word": "her."
+                            },
+                            {
+                                "word": "then",
+                                "start": 13.535001,
+                                "end": 13.935,
+                                "confidence": 0.88932437,
+                                "punctuated_word": "Then"
+                            },
+                            {
+                                "word": "i",
+                                "start": 13.935,
+                                "end": 14.095,
+                                "confidence": 0.95043397,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "saw",
+                                "start": 14.095,
+                                "end": 14.415,
+                                "confidence": 0.9988949,
+                                "punctuated_word": "saw"
+                            },
+                            {
+                                "word": "you",
+                                "start": 14.415,
+                                "end": 14.735001,
+                                "confidence": 0.99540025,
+                                "punctuated_word": "you"
+                            },
+                            {
+                                "word": "and",
+                                "start": 14.735001,
+                                "end": 15.055,
+                                "confidence": 0.7270782,
+                                "punctuated_word": "and"
+                            },
+                            {
+                                "word": "i",
+                                "start": 15.055,
+                                "end": 15.295,
+                                "confidence": 0.9878753,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "knew",
+                                "start": 15.295,
+                                "end": 15.795,
+                                "confidence": 0.95869607,
+                                "punctuated_word": "knew."
+                            },
+                            {
+                                "word": "maybe",
+                                "start": 17.535,
+                                "end": 18.015,
+                                "confidence": 0.938872,
+                                "punctuated_word": "Maybe"
+                            },
+                            {
+                                "word": "it's",
+                                "start": 18.015,
+                                "end": 18.255001,
+                                "confidence": 0.9902395,
+                                "punctuated_word": "it's"
+                            },
+                            {
+                                "word": "because",
+                                "start": 18.255001,
+                                "end": 18.655,
+                                "confidence": 0.89616597,
+                                "punctuated_word": "because"
+                            },
+                            {
+                                "word": "i",
+                                "start": 18.655,
+                                "end": 18.895,
+                                "confidence": 0.98970455,
+                                "punctuated_word": "I"
+                            },
+                            {
+                                "word": "got",
+                                "start": 18.895,
+                                "end": 19.215,
+                                "confidence": 0.982733,
+                                "punctuated_word": "got"
+                            },
+                            {
+                                "word": "a",
+                                "start": 19.215,
+                                "end": 19.455,
+                                "confidence": 0.9922593,
+                                "punctuated_word": "a"
+                            },
+                            {
+                                "word": "little",
+                                "start": 19.455,
+                                "end": 19.935001,
+                                "confidence": 0.99896777,
+                                "punctuated_word": "little"
+                            },
+                            {
+                                "word": "bit",
+                                "start": 19.935001,
+                                "end": 20.435001,
+                                "confidence": 0.99216545,
+                                "punctuated_word": "bit"
+                            },
+                            {
+                                "word": "older",
+                                "start": 20.735,
+                                "end": 21.235,
+                                "confidence": 0.93573815,
+                                "punctuated_word": "older."
+                            },
+                            {
+                                "word": "maybe",
+                                "start": 21.775002,
+                                "end": 22.175,
+                                "confidence": 0.9944728,
+                                "punctuated_word": "Maybe"
+                            },
+                            {
+                                "word": "it's",
+                                "start": 22.175,
+                                "end": 22.494999,
+                                "confidence": 0.99797976,
+                                "punctuated_word": "it's"
+                            },
+                            {
+                                "word": "all",
+                                "start": 22.494999,
+                                "end": 22.735,
+                                "confidence": 0.9976363,
+                                "punctuated_word": "all"
+                            },
+                            {
+                                "word": "that",
+                                "start": 22.735,
+                                "end": 22.975,
+                                "confidence": 0.99416876,
+                                "punctuated_word": "that"
+                            },
+                            {
+                                "word": "i've",
+                                "start": 22.975,
+                                "end": 23.295,
+                                "confidence": 0.99450344,
+                                "punctuated_word": "I've"
+                            },
+                            {
+                                "word": "been",
+                                "start": 23.295,
+                                "end": 23.535,
+                                "confidence": 0.9982054,
+                                "punctuated_word": "been"
+                            },
+                            {
+                                "word": "through",
+                                "start": 23.535,
+                                "end": 24.035,
+                                "confidence": 0.9911056,
+                                "punctuated_word": "through."
+                            },
+                            {
+                                "word": "it's",
+                                "start": 226.52,
+                                "end": 226.59,
+                                "confidence": 0.99037343,
+                                "punctuated_word": "It's"
+                            },
+                            {
+                                "word": "fire",
+                                "start": 226.59,
+                                "end": 226.84,
+                                "confidence": 0.98878664,
+                                "punctuated_word": "fire"
+                            },
+                            {
+                                "word": "on",
+                                "start": 226.84,
+                                "end": 227.34,
+                                "confidence": 0.94968367,
+                                "punctuated_word": "on"
+                            },
+                            {
+                                "word": "fire",
+                                "start": 228.28,
+                                "end": 228.78,
+                                "confidence": 0.8221326,
+                                "punctuated_word": "fire."
+                            }
+                        ],
+                        "paragraphs": {
+                            "transcript": "\nMy mother said I'm too romantic. She said you're dancing in the movie. I almost started to believe her. Then I saw you and I knew. Maybe it's because I got a little bit older.\n\nMaybe it's all that I've been through. It's fire on fire.",
+                            "paragraphs": [
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "My mother said I'm too romantic.",
+                                            "start": 0.88,
+                                            "end": 2.98
+                                        },
+                                        {
+                                            "text": "She said you're dancing in the movie.",
+                                            "start": 4.96,
+                                            "end": 7.46
+                                        },
+                                        {
+                                            "text": "I almost started to believe her.",
+                                            "start": 9.2,
+                                            "end": 12.179999
+                                        },
+                                        {
+                                            "text": "Then I saw you and I knew.",
+                                            "start": 13.535001,
+                                            "end": 15.795
+                                        },
+                                        {
+                                            "text": "Maybe it's because I got a little bit older.",
+                                            "start": 17.535,
+                                            "end": 21.235
+                                        }
+                                    ],
+                                    "start": 0.88,
+                                    "end": 21.235,
+                                    "num_words": 35
+                                },
+                                {
+                                    "sentences": [
+                                        {
+                                            "text": "Maybe it's all that I've been through.",
+                                            "start": 21.775002,
+                                            "end": 24.035
+                                        },
+                                        {
+                                            "text": "It's fire on fire.",
+                                            "start": 226.52,
+                                            "end": 228.78
+                                        }
+                                    ],
+                                    "start": 21.775002,
+                                    "end": 228.78,
+                                    "num_words": 11
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
