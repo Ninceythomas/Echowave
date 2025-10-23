@@ -1,4 +1,4 @@
-#ECHO WAVE_Video_Audio_Text_Audio Synthesis 
+ECHO WAVE_Video_Audio_Text_Audio Synthesis 
  
 1. Introduction
 •	This project implements a full pipeline to automate the process of converting YouTube videos into text and speech.
